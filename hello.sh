@@ -4,7 +4,5 @@ clear;
 clear
 echo "hello world";
 exit
-clear
 
-clear
-
+<p>paragrafo adicionado </p>
